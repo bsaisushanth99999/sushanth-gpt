@@ -20,7 +20,7 @@ function Login() {
         }}
         className="text-white font-bold text-3xl animate-pulse"
       >
-        Sign In, to use Sushanth's GPT
+        Sign In, to use Sushanth GPT
       </button>
     </div>
   );
