@@ -17,9 +17,9 @@ function HomePage() {
           </div>
 
           <div className="space-y-2">
-            <p className="infoText">"Explain somwthing to me"</p>
-            <p className="infoText">"Why software is better than medicine"</p>
-            <p className="infoText">"How to build a ChatGPT clone?"</p>
+            <p className="infoText">Explain somwthing to me</p>
+            <p className="infoText">Why software is better than medicine</p>
+            <p className="infoText">How to build a ChatGPT clone?</p>
           </div>
         </div>
 
@@ -30,12 +30,12 @@ function HomePage() {
           </div>
 
           <div className="space-y-2">
-            <p className="infoText">"Write an essay on Health care sciences"</p>
+            <p className="infoText">Write an essay on Health care sciences</p>
             <p className="infoText">
-              "Give me the top 10 list of pokemons in Gen-1"
+              Give me the top 10 list of pokemons in Gen-1
             </p>
             <p className="infoText">
-              "Explain why buying a home is better than renting it"
+              Explain why buying a home is better than renting it
             </p>
           </div>
         </div>
@@ -48,11 +48,11 @@ function HomePage() {
 
           <div className="space-y-2">
             <p className="infoText">
-              "Step by step process to lead a healthy life"
+              Step by step process to lead a healthy life
             </p>
-            <p className="infoText">"Run a marathon for me"</p>
+            <p className="infoText">Run a marathon for me</p>
             <p className="infoText">
-              "What happens if I fall into a blackhole with 0 density?"
+              What happens if I fall into a blackhole with 0 density?
             </p>
           </div>
         </div>
